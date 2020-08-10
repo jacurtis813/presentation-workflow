@@ -17,6 +17,8 @@ Day One:
 Day Two:
 6. Begin creating, further creating the styles for the presentation project.
 7. Test and run all current code that created for the style portion of the extended presentation page.
-8. 
+8. Created the styles for the page widths. The button properties. Applying icons
+9. Update the readme with base points of reference within the mini-projects.
+10. 
 
 
