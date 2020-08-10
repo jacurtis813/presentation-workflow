@@ -16,6 +16,7 @@ Day One:
 
 Day Two:
 6. Begin creating, further creating the styles for the presentation project.
-7. 
+7. Test and run all current code that created for the style portion of the extended presentation page.
+8. 
 
 
