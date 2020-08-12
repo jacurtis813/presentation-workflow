@@ -50,6 +50,7 @@ Day Four:
 34. Use the new css file to style the menu overlay, known as the hamburger menu.
 35. Complete all of the base styling for the menu 'look-alike' icon. Using only css rather than the js and jquery. CSS TRICKS
 36. Test and run all the code that has been created. Save all changes. 
-
+37. Continue the styling for the menu section. Complete the second stage of styling for the menu toggler.
+38. Create the styles for the hamburger navigation. Continue on with stage three. 
 
 
