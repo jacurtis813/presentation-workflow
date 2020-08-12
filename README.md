@@ -35,6 +35,8 @@ Day Four:
 19. Create the files for the second mini-project stylesheet. Link the stylesheets.
 20. Make sure that all files have th respected pathway set up for the web-browser.
 21. Fill the html file with the base content before beginning to style the menu overlay.
-22. 
+22. Begin creating the css styles. Place comments around all new styles.
+23. Create the comments for the new html file and the css file.
+
 
 
