@@ -47,5 +47,9 @@ Day Four:
 31. Create the remaining styles for the showcase section. Creating the text styles and the positioning within the page.
 32. Complete all the secondary stage styling. Comment all styles.
 33. Create the menu css stylesheet to create the menu button. 
+34. Use the new css file to style the menu overlay, known as the hamburger menu.
+35. Complete all of the base styling for the menu 'look-alike' icon. Using only css rather than the js and jquery. CSS TRICKS
+36. Test and run all the code that has been created. Save all changes. 
+
 
 
