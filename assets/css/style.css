@@ -88,8 +88,8 @@ body {
 #page-1 p {
     -webkit-transform: translateX(-1800px);
             transform: translateX(-1800px);
-            -webkit-animation: paragraph var(--animate-speed) forwards ease-in;
-                    animation: paragraph var(--animate-speed) forwards ease-in;
+            -webkit-animation: paragraph var(--animate-speed) forwards ease-in 2s;
+                    animation: paragraph var(--animate-speed) forwards ease-in 2s;
 }
 
 /*keyframes styling*/

@@ -24,6 +24,10 @@ Day Three:
 10. Review the code content. Pick up within the project of where we left off.
 11. Begin creating the continue styles for the animation using keyframes.
 12. Create the text animation within the main page of the presentation.
-13. 
+13. Complete the text animation for the first page of presentation project.
+14. Implement the jquery scrolling cdn script to apply our small piece of script.
+15. Apply the script for the smooth scrolling effect when user clicks the button.
+16. Test and run all the code that we have created. Make sure all content is working as designed.
+17. 
 
 
