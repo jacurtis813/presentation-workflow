@@ -51,6 +51,11 @@ Day Four:
 35. Complete all of the base styling for the menu 'look-alike' icon. Using only css rather than the js and jquery. CSS TRICKS
 36. Test and run all the code that has been created. Save all changes. 
 37. Continue the styling for the menu section. Complete the second stage of styling for the menu toggler.
-38. Create the styles for the hamburger navigation. Continue on with stage three. 
+38. Create the styles for the hamburger navigation. Continue on with stage three.
+39. Complete all the styling within all the style stages of the hamburger menu. 
+40. Test and run all the code that we have created to make sure that all is working as designed. 
+
+
+Mini-projects are completed. 
 
 
