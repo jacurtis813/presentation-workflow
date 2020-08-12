@@ -33,6 +33,8 @@ Day Four:
 17. Create the hamburge style type menu within the landing page.
 18. Start with the the outline sturcture of the project files. Create the html file.
 19. Create the files for the second mini-project stylesheet. Link the stylesheets.
-20. 
+20. Make sure that all files have th respected pathway set up for the web-browser.
+21. Fill the html file with the base content before beginning to style the menu overlay.
+22. 
 
 
