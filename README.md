@@ -39,6 +39,10 @@ Day Four:
 23. Create the comments for the new html file and the css file.
 24. Find a google font to embed with our file, future font styling. Embed both the link and the font-family style value.
 25. Beging creating the styles for the landing page. Start with the basic css styling.
-
+26. Create the folder for the images. Dowload the zip files- images needed for mini-project.
+27. Copy the image and create th url to the showcase image on the landing page. 
+28. Test and run all the code that we have created at this time. Save all the changes.
+29. After creating the image as the background, set the properties and values for the image to display properly.
+30. 
 
 
