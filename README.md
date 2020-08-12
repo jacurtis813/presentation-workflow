@@ -37,6 +37,8 @@ Day Four:
 21. Fill the html file with the base content before beginning to style the menu overlay.
 22. Begin creating the css styles. Place comments around all new styles.
 23. Create the comments for the new html file and the css file.
+24. Find a google font to embed with our file, future font styling. Embed both the link and the font-family style value.
+25. Beging creating the styles for the landing page. Start with the basic css styling.
 
 
 
