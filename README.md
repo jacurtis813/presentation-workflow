@@ -28,6 +28,11 @@ Day Three:
 14. Implement the jquery scrolling cdn script to apply our small piece of script.
 15. Apply the script for the smooth scrolling effect when user clicks the button.
 16. Test and run all the code that we have created. Make sure all content is working as designed.
-17. 
+
+Day Four:
+17. Create the hamburge style type menu within the landing page.
+18. Start with the the outline sturcture of the project files. Create the html file.
+19. Create the files for the second mini-project stylesheet. Link the stylesheets.
+20. 
 
 
