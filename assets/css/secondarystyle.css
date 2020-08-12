@@ -1,5 +1,6 @@
 /* second mini-project stylesheet only- hamburger menu */
 
+
 /* variable styling*/
 :root {
     --primary-color: rgba(13, 110, 139, 0.75);
@@ -8,6 +9,7 @@
     --menu-sped: 0.75s;
 }
 /*---------------------------------*/
+
 
 /* basic webpage styling */
 
@@ -32,6 +34,7 @@ body {
 }
 
 /*---------------------------------*/
+
 
 /* showcase styling */
 #showcase {

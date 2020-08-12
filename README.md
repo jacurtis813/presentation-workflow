@@ -45,6 +45,7 @@ Day Four:
 29. After creating the image as the background, set the properties and values for the image to display properly.
 30. Understanding the different methods to creating an overlay background. 
 31. Create the remaining styles for the showcase section. Creating the text styles and the positioning within the page.
-32. Complete all the secondary stage styling. 
+32. Complete all the secondary stage styling. Comment all styles.
+33. Create the menu css stylesheet to create the menu button. 
 
 
