@@ -19,6 +19,11 @@ Day Two:
 7. Test and run all current code that created for the style portion of the extended presentation page.
 8. Created the styles for the page widths. The button properties. Applying icons
 9. Update the readme with base points of reference within the mini-projects.
-10. 
+
+Day Three:
+10. Review the code content. Pick up within the project of where we left off.
+11. Begin creating the continue styles for the animation using keyframes.
+12. Create the text animation within the main page of the presentation.
+13. 
 
 

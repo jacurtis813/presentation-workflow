@@ -17,6 +17,8 @@ body {
     padding: 0;
     overflow: hidden;
 }
+/*---------------------------*/
+
 
 /*Page colors*/
 #page-1 { background: var(--page-1-color);}
@@ -73,3 +75,48 @@ body {
     background: #f4f4f4;
     color: #333;
 }
+/*---------------------------*/
+
+/**/
+#page-1 h1 {
+    -webkit-transform: translatey(-1200px);
+            transform: translatey(-1200px);
+            -webkit-animation: heading var(--animate-speed) forwards ease-in;
+                    animation: heading var(--animate-speed) forwards ease-in;
+}
+
+#page-1 p {
+    -webkit-transform: translateX(-1800px);
+            transform: translateX(-1800px);
+            -webkit-animation: paragraph var(--animate-speed) forwards ease-in;
+                    animation: paragraph var(--animate-speed) forwards ease-in;
+}
+
+/*keyframes styling*/
+@-webkit-keyframes heading {
+    to {
+        -webkit-transform: translatey(0);
+                transform: translatey(0);
+    }
+}
+@keyframes heading {
+    to {
+        -webkit-transform: translatey(0);
+                transform: translatey(0);
+    }
+}
+
+@-webkit-keyframes paragraph {
+    to {
+        -webkit-transform: translateX(0);
+                transform: translateX(0);
+    }
+}
+
+@keyframes paragraph {
+    to {
+        -webkit-transform: translateX(0);
+                transform: translateX(0);
+    }
+}
+
