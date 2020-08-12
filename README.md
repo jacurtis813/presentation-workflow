@@ -43,6 +43,8 @@ Day Four:
 27. Copy the image and create th url to the showcase image on the landing page. 
 28. Test and run all the code that we have created at this time. Save all the changes.
 29. After creating the image as the background, set the properties and values for the image to display properly.
-30. 
+30. Understanding the different methods to creating an overlay background. 
+31. Create the remaining styles for the showcase section. Creating the text styles and the positioning within the page.
+32. Complete all the secondary stage styling. 
 
 
